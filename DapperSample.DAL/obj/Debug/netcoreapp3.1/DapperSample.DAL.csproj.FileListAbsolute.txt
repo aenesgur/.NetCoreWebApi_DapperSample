@@ -1,0 +1,11 @@
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\bin\Debug\netcoreapp3.1\DapperSample.DAL.deps.json
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\bin\Debug\netcoreapp3.1\DapperSample.DAL.dll
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\obj\Debug\netcoreapp3.1\DapperSample.DAL.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\obj\Debug\netcoreapp3.1\DapperSample.DAL.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\obj\Debug\netcoreapp3.1\DapperSample.DAL.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\bin\Debug\netcoreapp3.1\DapperSample.Entities.dll
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\bin\Debug\netcoreapp3.1\DapperSample.DAL.pdb
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\bin\Debug\netcoreapp3.1\DapperSample.Entities.pdb
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\obj\Debug\netcoreapp3.1\DapperSample.DAL.csproj.CopyComplete
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\obj\Debug\netcoreapp3.1\DapperSample.DAL.dll
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.DAL\obj\Debug\netcoreapp3.1\DapperSample.DAL.pdb

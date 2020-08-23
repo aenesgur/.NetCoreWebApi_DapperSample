@@ -1,0 +1,8 @@
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.Entities\bin\Debug\netcoreapp3.1\DapperSample.Entities.deps.json
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.Entities\bin\Debug\netcoreapp3.1\DapperSample.Entities.dll
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.Entities\bin\Debug\netcoreapp3.1\DapperSample.Entities.pdb
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.Entities\obj\Debug\netcoreapp3.1\DapperSample.Entities.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.Entities\obj\Debug\netcoreapp3.1\DapperSample.Entities.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.Entities\obj\Debug\netcoreapp3.1\DapperSample.Entities.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.Entities\obj\Debug\netcoreapp3.1\DapperSample.Entities.dll
+C:\Users\enes.gur\Desktop\DapperSample\DapperSample.Entities\obj\Debug\netcoreapp3.1\DapperSample.Entities.pdb
